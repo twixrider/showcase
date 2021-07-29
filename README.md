@@ -12,3 +12,4 @@ For architectural guideance, ideas and infos check:
 
 - https://github.com/igorwojda/android-showcase#architecture
 - https://medium.com/@puruchauhan/draw-line-on-finger-touch-c758a7bb59ac
+- https://www.kaggle.com/c/digit-recognizer/discussion
