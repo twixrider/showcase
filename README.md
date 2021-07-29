@@ -1,8 +1,8 @@
 # Showcase
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
-%%%   UNDER CONSTRUCTION   %%%\
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%% UNDER CONSTRUCTION %%%\
+%%%%%%%%%%%%%%%%%%%%%%%%%%\
 
 
 Showcase is a sample project that presents intersting and modern technologies.
