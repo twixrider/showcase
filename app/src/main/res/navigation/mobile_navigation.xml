@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.chrisaltenhofer.showcase.ui.dashboard.DashboardFragment"
+        android:name="com.chrisaltenhofer.showcase.presentation.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_ar"
-        android:name="com.chrisaltenhofer.showcase.ui.ar.ArFragment"
+        android:name="com.chrisaltenhofer.showcase.presentation.ar.ArFragment"
         android:label="@string/title_ar"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_ar" />
 </navigation>

@@ -1,4 +1,4 @@
-package com.chrisaltenhofer.showcase.ui.dashboard
+package com.chrisaltenhofer.showcase.presentation.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
