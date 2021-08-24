@@ -11,6 +11,7 @@ The goal of the project is to demonstrate concepts and technologies in a modular
 For architectural guideance, ideas and infos check: 
 
 - https://github.com/igorwojda/android-showcase#architecture
+- https://medium.com/@er.ankitbisht/mvvm-model-view-viewmodel-kotlin-google-jetpack-f02ec7754854
 - https://medium.com/@puruchauhan/draw-line-on-finger-touch-c758a7bb59ac
 - https://www.kaggle.com/c/digit-recognizer/discussion
 

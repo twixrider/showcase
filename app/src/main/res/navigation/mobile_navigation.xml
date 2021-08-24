@@ -3,13 +3,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/navigation_dashboard">
+    app:startDestination="@+id/navigation_drawingboard">
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.chrisaltenhofer.showcase.presentation.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_drawingboard"
+        android:name="com.chrisaltenhofer.showcase.presentation.dashboard.DrawingboardFragment"
+        android:label="@string/title_drawingboard"
+        tools:layout="@layout/fragment_drawingboard" />
 
     <fragment
         android:id="@+id/navigation_ar"

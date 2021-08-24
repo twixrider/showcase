@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">showcase</string>
-    <string name="title_dashboard">Dashboard</string>
+
+    <string name="title_drawingboard">Drawing Board</string>
     <string name="title_ar">Augmented Reality</string>
+
+    <string name="send">Send</string>
+    <string name="reset">Reset</string>
 </resources>
